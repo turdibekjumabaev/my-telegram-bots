@@ -6,5 +6,6 @@ My name is Turdıbek, I am 17 years old. I know the Python programming language 
 ## List of bots:
    + [imla bot](https://github.com/turdibekjumabaev/my-telegram-bots/tree/imlabot)
    + [Listen-Quran-Bot](https://github.com/turdibekjumabaev/my-telegram-bots/tree/quranbot)
+   + [Group Moderator Bot](https://github.com/turdibekjumabaev/my-telegram-bots/tree/moderatorbot)
 
 <i>Thank you for your attention</i>
