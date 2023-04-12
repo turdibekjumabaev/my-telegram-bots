@@ -1,7 +1,7 @@
 # My Telegram Bots 🤖
 ### 🐍 Telegram bots programmed by myself...
 My name is Turdıbek, I am 17 years old. I know the Python programming language very well. Currently, I am engaged in programming large and small bots.
-#### Telegram: [@developerturdibek](https://t.me/developerturdibek/)
+#### Telegram: [@developerturdibek](https://t.me/turdibekjumabaev)
 
 ## List of bots:
    + [imla bot](https://github.com/turdibekjumabaev/my-telegram-bots/tree/imlabot)
